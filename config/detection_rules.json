@@ -1,0 +1,9 @@
+{
+  "port_scan": {"unique_destination_ports": 25, "severity": "High"},
+  "connection_burst": {"connection_attempts": 120, "severity": "Medium"},
+  "dos_pattern": {"packets_sent": 9000, "connection_attempts": 250, "severity": "Critical"},
+  "dns_tunnelling": {"dns_query_count": 90, "average_dns_query_length": 55, "severity": "High"},
+  "outbound_transfer": {"bytes_sent": 50000000, "severity": "High"},
+  "failed_connections": {"failed_connection_count": 35, "severity": "Medium"}
+}
+

@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.coverage
+htmlcov/
+
+# Local configuration and credentials
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Generated runtime data and models
+data/*.db
+data/*.db-journal
+data/*.db-shm
+data/*.db-wal
+models/*.joblib
+reports/*.csv
+outputs/
+work/
+

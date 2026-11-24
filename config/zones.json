@@ -1,0 +1,15 @@
+[
+  {"zone_id":"Z01","zone_name":"Central Block","building_type":"Academic","latitude":12.93445,"longitude":77.60535,"map_x":50,"map_y":52,"access_point_count":14,"device_capacity":850,"bandwidth_capacity_mbps":1200,"pattern":"academic"},
+  {"zone_id":"Z02","zone_name":"R and D Block","building_type":"Academic","latitude":12.93410,"longitude":77.60575,"map_x":59,"map_y":47,"access_point_count":16,"device_capacity":1000,"bandwidth_capacity_mbps":1500,"pattern":"academic"},
+  {"zone_id":"Z03","zone_name":"Block I","building_type":"Academic","latitude":12.93380,"longitude":77.60505,"map_x":43,"map_y":42,"access_point_count":10,"device_capacity":600,"bandwidth_capacity_mbps":900,"pattern":"academic"},
+  {"zone_id":"Z04","zone_name":"Block II","building_type":"Academic","latitude":12.93355,"longitude":77.60548,"map_x":53,"map_y":36,"access_point_count":10,"device_capacity":600,"bandwidth_capacity_mbps":900,"pattern":"academic"},
+  {"zone_id":"Z05","zone_name":"Block III","building_type":"Academic","latitude":12.93325,"longitude":77.60590,"map_x":63,"map_y":30,"access_point_count":9,"device_capacity":550,"bandwidth_capacity_mbps":800,"pattern":"academic"},
+  {"zone_id":"Z06","zone_name":"Library","building_type":"Learning","latitude":12.93465,"longitude":77.60485,"map_x":38,"map_y":57,"access_point_count":8,"device_capacity":420,"bandwidth_capacity_mbps":700,"pattern":"library"},
+  {"zone_id":"Z07","zone_name":"Computer Laboratories","building_type":"Laboratory","latitude":12.93405,"longitude":77.60455,"map_x":31,"map_y":46,"access_point_count":12,"device_capacity":520,"bandwidth_capacity_mbps":1300,"pattern":"laboratory"},
+  {"zone_id":"Z08","zone_name":"Auditorium","building_type":"Events","latitude":12.93500,"longitude":77.60555,"map_x":55,"map_y":66,"access_point_count":7,"device_capacity":900,"bandwidth_capacity_mbps":650,"pattern":"events"},
+  {"zone_id":"Z09","zone_name":"Cafeteria","building_type":"Recreation","latitude":12.93450,"longitude":77.60615,"map_x":69,"map_y":55,"access_point_count":6,"device_capacity":450,"bandwidth_capacity_mbps":500,"pattern":"cafeteria"},
+  {"zone_id":"Z10","zone_name":"Hostel Zone","building_type":"Residential","latitude":12.93285,"longitude":77.60475,"map_x":36,"map_y":21,"access_point_count":15,"device_capacity":900,"bandwidth_capacity_mbps":1000,"pattern":"hostel"},
+  {"zone_id":"Z11","zone_name":"Sports Area","building_type":"Outdoor","latitude":12.93535,"longitude":77.60435,"map_x":26,"map_y":74,"access_point_count":4,"device_capacity":250,"bandwidth_capacity_mbps":300,"pattern":"outdoor"},
+  {"zone_id":"Z12","zone_name":"Parking and Open Area","building_type":"Outdoor","latitude":12.93320,"longitude":77.60645,"map_x":76,"map_y":29,"access_point_count":4,"device_capacity":220,"bandwidth_capacity_mbps":250,"pattern":"outdoor"}
+]
+
